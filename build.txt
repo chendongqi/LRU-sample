@@ -1,0 +1,2 @@
+javac -d build/ src/com/example/lru/LRUTest.java
+java -cp build/ com.example.lru.LRU
